@@ -5,7 +5,6 @@
 
 ## 🔥 About Me:
 - 🎓 **Education**: Ingeniero de Sistemas y Computación at Universidad Nacional de Colombia.
-- 💻 **Currently Working On**: [Proyecto actual o aprendizaje].
 - 🌱 **Learning**: Redux, Go, IA.
 - 🏆 **Hobbies**: Coding, drawing, gaming, reading.
 
@@ -43,7 +42,6 @@
 ## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=asastg&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asastg&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
