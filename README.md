@@ -19,5 +19,3 @@ Also known as "stuff I'm familiar... or somewhat familiar with". :>
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 
-## 📊 Most Used Languages:
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark)
