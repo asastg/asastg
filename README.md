@@ -1,6 +1,6 @@
 # 😺 Nice to meet you!
 
-I'm [Andres Sastoque], a [Systems engineering student]!
+I'm Andres Sastoque, a Systems engineering student!
 
 ## 🎨 What am I up to?:
 - 🌱 Learning [React, Node, MongoDB, Express].
