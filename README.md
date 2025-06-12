@@ -48,4 +48,4 @@
 
 ## 📫 Contact Me:
 - 📧 Email: asastoqueg@unal.edu.co
-- 💼 LinkedIn: https://www.linkedin.com/in/andres-giovanni-sastoque-gonzalez/(#)
+- 💼 LinkedIn: https://www.linkedin.com/in/andres-giovanni-sastoque-gonzalez/
